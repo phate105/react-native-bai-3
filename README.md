@@ -8,4 +8,4 @@
 ## Kết quả 
 Đây là hình ảnh kết quả:
 
-![Giao diện đăng nhập](./assets/hello.png)
+![Giao diện](./assets/hello.png)
